@@ -1,4 +1,4 @@
 # HELLO
 
 
-lets start learning eith git!
+lets start learning with git!
